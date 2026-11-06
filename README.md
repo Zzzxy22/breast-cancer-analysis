@@ -1,6 +1,6 @@
 # 乳腺肿瘤诊断数据分析 · Breast Cancer Diagnostic Analysis
 
-![CI](https://github.com/YOUR_USERNAME/breast-cancer-analysis/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Zzzxy22/breast-cancer-analysis/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -32,7 +32,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/breast-cancer-analysis.git
+git clone https://github.com/Zzzxy22/breast-cancer-analysis.git
 cd breast-cancer-analysis
 
 python -m venv .venv
